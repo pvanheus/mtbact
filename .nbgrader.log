@@ -1,0 +1,66 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] ✓ nbpresent HTML export ENABLED
+[NotebookApp | WARNING] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[NotebookApp | INFO] Serving notebooks from local directory: /home/pvh/Documents/code/SANBI/magnetotactic
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e61fee347f85522d8dee90172b6a1912b1d11925e0803fab
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e61fee347f85522d8dee90172b6a1912b1d11925e0803fab
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 822f0bb9-505e-4487-8890-57182d7deb9f
+[NotebookApp | WARNING] 404 POST /nbdime/api/isgit (127.0.0.1) 13.32ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=Python%20[Root]
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 822f0bb9-505e-4487-8890-57182d7deb9f
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
+[NotebookApp | INFO] Saving file at /magnetotactic.ipynb
